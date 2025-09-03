@@ -1,24 +1,3 @@
-// status request 
-
-// 0 - no init 
-// 1-  connection established 
-// 2-  request recieved 
-// 4-  data is proccessing 
-// 5- response is ready 
-
-// 3 state only
-
-
-
-
-
-
-
-
-//  ---------------------------------------------------------------------
-
-
-
 let myhttpp = new XMLHttpRequest();  //1- instance
 
 
@@ -91,6 +70,3 @@ function displaydata() {
 
 
 }
-
-
-//  ---------------------------------------------------------------------
